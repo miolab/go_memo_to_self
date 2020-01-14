@@ -1,4 +1,4 @@
-go_memo_to_self
+# go_memo_to_self
 
 https://github.com/miolab/go_memo_to_self.git
 
